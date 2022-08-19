@@ -9,7 +9,7 @@
     },
     "connected": {
         "message": "Connected.",
-        "description": "Status message seen after a succesful connection."
+        "description": "Status message seen after a successful connection."
     },
     "connecting": {
         "message": "Connecting...",

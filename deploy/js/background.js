@@ -201,7 +201,7 @@ const connect = local.function.connect = async function connect() {
             await setBadge(browser.i18n.getMessage('on'))
             await setIcon('blue', local.setting.tabID)
 
-            await fixIcons() // fixes the edge case where one tab has a pink error icon and then a succesful connection is made in a second tab that would turn a second icon blue
+            await fixIcons() // fixes the edge case where one tab has a pink error icon and then a successful connection is made in a second tab that would turn a second icon blue
         } // sock.onopen
 
         local.sock.onmessage = async function (event) {

@@ -1,9 +1,8 @@
+<img src="https://raw.githubusercontent.com/nightmode/feri-extension/main/images/feri-extension.jpg" width="830" alt="">
+
 # Feri Extension
 
-<img src="https://raw.githubusercontent.com/nightmode/feri-extension/master/images/docs/feri.png" width="420" height="447" align="right" alt="">
-
 A web browser extension that connects to the [Feri](https://github.com/nightmode/feri) build tool and automatically reloads a browser tab when files change.
-
 
 ## Navigation
 

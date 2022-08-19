@@ -213,7 +213,7 @@ const clearError = local.function.clearError = function clearError() {
 
 const customElementsDefine = local.function.customElementsDefine = function customElementsDefine() {
     /*
-    Define Custom Elements for programmatic use and also upgrade any existing HTML elemnts with matching "is" properties.
+    Define Custom Elements for programmatic use and also upgrade any existing HTML elements with matching "is" properties.
     */
 
     customElements.define('custom-input-number', customInputNumber, { extends: 'input' })

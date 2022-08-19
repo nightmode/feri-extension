@@ -41,7 +41,7 @@ if (window.reloadAfter === undefined) {
                     // manually set "auto" to match the last known scrollRestoration setting of the document
                     window.history.scrollRestoration = 'auto'
 
-                    // overide normal settings with last known error settings
+                    // override normal settings with last known error settings
                     obj.scrollLeft = obj.scrollError.scrollLeft
                     obj.scrollRestoration = 'auto'
                     obj.scrollTop = obj.scrollError.scrollTop
