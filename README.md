@@ -48,7 +48,7 @@ Thanks to [Font Awesome](https://fontawesome.com/license) for providing the icon
 
 ## Donate
 
-Buy me [Bubble Tea](https://ko-fi.com/kai_nightmode). Support my work and get the ability to send me private messages on Ko-fi. ^_^
+This software may be free but my love of loose leaf tea is not. Donate to [support my work](https://ko-fi.com/kai_nightmode) and unlock private messages on Ko-fi.
 
 ## License
 
